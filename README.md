@@ -1,2 +1,4 @@
 # SQL-Server-DBA
-Scripts for SQL Server DBAs
+This repo contains scripts for SQL Server DBAs.
+
+
